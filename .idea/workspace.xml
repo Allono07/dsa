@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="130de4d4-2c1f-48c7-a913-720f08829663" name="Changes" comment="baseSeven">
-      <change afterPath="$PROJECT_DIR$/src/dsaPractice/ConvertToHexadecimal.java" afterDir="false" />
+    <list default="true" id="130de4d4-2c1f-48c7-a913-720f08829663" name="Changes" comment="converToHex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsaPractice/ConvertToHexadecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsaPractice/ConvertToHexadecimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/webengage/IdeaProjects/dsaPrac/dsa"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/webengage/IdeaProjects/dsaPrac/dsa&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,11 +62,19 @@
       <option name="project" value="LOCAL" />
       <updated>1676013666655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="converToHex">
+      <created>1676021417727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676021417727</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="baseSeven" />
-    <option name="LAST_COMMIT_MESSAGE" value="baseSeven" />
+    <MESSAGE value="converToHex" />
+    <option name="LAST_COMMIT_MESSAGE" value="converToHex" />
   </component>
 </project>
